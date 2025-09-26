@@ -3,8 +3,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=topsy-debug" alt="topsy-debug" /></a> </p>
 
-- I’m currently working on **a web page for my career**
-
 - I’m currently learning **AWS Cloud and AI**
 
 - I’m looking to collaborate on **anything related to AI**
