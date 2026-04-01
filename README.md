@@ -1,11 +1,9 @@
 <h1 align="center">I'm Octavio</h1>
 <h3 align="center">Software Engineer</h3>
 
-- I’m currently working on **Live Event Forecaster**
-
 - I’m currently learning **Google Data Analysis Course**
 
-- Ask me about **Math, Python and SQL**
+- Ask me about **Math, Python and SQL** or any relevant topic and I can help you to solve any question you may have
 
 - How to reach me **octaviogc620@gmail.com**
 
