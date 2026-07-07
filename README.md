@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Octavio García Celaya</h1>
 
 <h3 align="center">
-Software Engineer · Fullstack Developer · AI & Data Enthusiast
+Software Engineer · Fullstack Developer · AI & Data Scientist
 </h3>
 
 <p align="center">
@@ -16,10 +16,10 @@ I'm a Software Engineer from Mexico with a strong curiosity for how systems work
 
 My main interests are focused on:
 
-- Backend development and scalable software architecture
-- Fullstack applications with clean user experiences
 - Data analysis, business intelligence, and automation
 - Machine Learning, NLP, and AI-assisted systems
+- Backend development and scalable software architecture
+- Fullstack applications with clean user experiences
 - Cloud computing and modern infrastructure
 - Autonomous agents, simulations, and intelligent behavior systems
 - Embedded systems, IoT, and real-world software integration
@@ -173,7 +173,7 @@ I want my GitHub to show not only what I know today, but also the direction I am
   <a href="https://www.linkedin.com/in/octaviogc">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
-  <a href="mailto:octaviogc620@gmail.com">
+  <a href="mailto:octavio@corio.dev">
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
 </p>
