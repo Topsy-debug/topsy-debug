@@ -1,22 +1,185 @@
-<h1 align="center">I'm Octavio</h1>
-<h3 align="center">Software Engineer</h3>
+<h1 align="center">Hi, I'm Octavio García Celaya</h1>
 
-- I’m currently learning **Google Data Analysis Course**
+<h3 align="center">
+Software Engineer · Fullstack Developer · AI & Data Enthusiast
+</h3>
 
-- Ask me about **Math, Python and SQL** or any relevant topic and I can help you to solve any question you may have
-
-- How to reach me **octaviogc620@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/octaviogc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="octaviogc" height="30" width="40" /></a>
-<a href="https://kaggle.com/octaviogarcacelaya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="octaviogarcacelaya" height="30" width="40" /></a>
-<a href="https://www.youtube.com/@topsy620" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="topsy620" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/goldenpanda620" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="goldenpanda620" height="30" width="40" /></a>
+<p align="center">
+I build software with a strong interest in backend systems, data, artificial intelligence, cloud infrastructure, and intelligent autonomous systems.
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.framer.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="framer" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=topsy-debug&show_icons=true&locale=en&layout=compact" alt="topsy-debug" /></p>
+## About Me
 
+I'm a Software Engineer from Mexico with a strong curiosity for how systems work, how knowledge is structured, and how technology can be used to solve real operational problems.
+
+My main interests are focused on:
+
+- Backend development and scalable software architecture
+- Fullstack applications with clean user experiences
+- Data analysis, business intelligence, and automation
+- Machine Learning, NLP, and AI-assisted systems
+- Cloud computing and modern infrastructure
+- Autonomous agents, simulations, and intelligent behavior systems
+- Embedded systems, IoT, and real-world software integration
+
+I enjoy working on projects that combine practical engineering with long-term learning. I care about writing software that is understandable, maintainable, and useful beyond the demo stage.
+
+---
+
+## Current Focus
+
+I'm currently strengthening my skills in:
+
+- Data analysis and business intelligence
+- Python, SQL, and data workflows
+- Backend architecture and API design
+- Cloud services and deployment practices
+- AI-powered applications and automation
+- Autonomous agent systems using Python and game/simulation environments
+
+I am also building a personal portfolio around projects that connect software engineering, AI, data, and real-world problem solving.
+
+---
+
+## Technical Interests
+
+### Software Engineering
+
+I enjoy designing systems from the ground up: understanding the problem, structuring the architecture, defining the data model, building APIs, and connecting everything into a usable product.
+
+Areas I like working with:
+
+- REST APIs
+- Authentication and authorization
+- Relational databases
+- Backend services
+- Frontend interfaces
+- System architecture
+- Clean project structure
+- Technical documentation
+
+### Data & AI
+
+I am interested in using data and AI not just as isolated tools, but as part of complete systems that help people make better decisions.
+
+Topics I am exploring:
+
+- Data cleaning and analysis
+- SQL-based reporting
+- Dashboards and business intelligence
+- Machine Learning fundamentals
+- Natural Language Processing
+- LLM-based tools and workflows
+- AI agents and automated reasoning systems
+
+### Cloud & Infrastructure
+
+I am learning how to design applications that can run reliably beyond a local environment.
+
+Technologies and concepts I am interested in:
+
+- AWS
+- Cloud architecture
+- Deployment workflows
+- APIs in production
+- Security fundamentals
+- Monitoring and reliability
+- Practical DevOps practices
+
+---
+
+## Tech Stack
+
+### Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,java,js,ts,cs,cpp,html,css,sql" />
+</p>
+
+### Frontend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,vite,tailwind,figma" />
+</p>
+
+### Backend & Databases
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,postgres,mysql,sqlite" />
+</p>
+
+### Cloud, Tools & Platforms
+
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,gcp,git,github,docker,linux,vscode,postman" />
+</p>
+
+### AI, Data & Scientific Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,matlab" />
+</p>
+
+---
+
+## Projects I'm Interested In
+
+I like building projects that sit between software engineering, intelligence, and practical utility.
+
+Some areas I want my portfolio to reflect:
+
+- Fullstack business applications
+- AI-assisted productivity tools
+- Data dashboards and analytics systems
+- Automation platforms
+- IoT and embedded software integrations
+- Autonomous agents and simulations
+- Developer tools and technical experiments
+- Educational projects that explain complex topics clearly
+
+---
+
+## Learning Philosophy
+
+I like to learn deeply.
+
+For me, software engineering is not only about knowing frameworks or tools. It is about understanding systems, abstractions, trade-offs, and how different areas of knowledge connect.
+
+I'm interested in computer science, artificial intelligence, mathematics, physics, philosophy, and literature. I believe those fields help build better judgment, better intuition, and better software.
+
+---
+
+## GitHub Goals
+
+This profile is my personal engineering portfolio.
+
+Here I want to document:
+
+- Projects I am building
+- Experiments I am learning from
+- Technical notes and prototypes
+- Systems that connect AI, data, and software
+- Long-term progress as a developer and engineer
+
+I want my GitHub to show not only what I know today, but also the direction I am growing toward.
+
+---
+
+## Connect with Me
+
+<p>
+  <a href="https://www.linkedin.com/in/octaviogc">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  <a href="mailto:octaviogc620@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <i>Building useful systems, learning deeply, and trying to become a better engineer one project at a time.</i>
+</p>
